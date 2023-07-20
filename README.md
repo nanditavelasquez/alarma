@@ -3,9 +3,9 @@
 </div>
 
 <div align="left">
-    <h3> 🔨 Desarrollado con html, css y javascript:</h3>
+    <h3> 🔨 Desarrollado con html, css y javascript</h3>
 <div>
 
-<div>
+<div align="center">
    <img src="img/alarma.jpg" width="476" height="262">
 </div>
