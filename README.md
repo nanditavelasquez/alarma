@@ -2,7 +2,7 @@
     <h1 align="center">Alarma o reloj despertador</h1>
 </div>
 
-<div align="left">
+<div align="center">
     <h3> 🔨 Desarrollado con html, css y javascript</h3>
 <div>
 
