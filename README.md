@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-</html>
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -61,7 +58,7 @@
             getToday()
             //nos queda iniciar el temporizardor en 1 segundo = 1000ms
             setInterval(updateTime, 1000);
-        })
+
     </script>
 </body>
 
